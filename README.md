@@ -1,6 +1,6 @@
 # Hi, I'm Ramona(lyst) 👋
 
-Data Analyst / Business Intelligence with a focus on turning messy data into reliable reporting and actionable insights.  
+Data Analyst / Business Intelligence Consultant with a focus on turning messy data into reliable reporting and actionable insights.  
 I enjoy building clean data models, automating pipelines, and creating KPI dashboards that support business decisions.
 
 ---
@@ -94,4 +94,4 @@ Datenanalyse · Business Intelligence · Datenvisualisierung · Datenmanagement 
 ---
 
 ## 📫 Contact
-- LinkedIn: ([https://www.linkedin.com/in/ramona-mufic/])
+- [LinkedIn](https://www.linkedin.com/in/ramona-mufic/)

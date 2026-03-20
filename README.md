@@ -8,7 +8,8 @@
 ![dbt](https://img.shields.io/badge/dbt-Analytics%20Engineering-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Data Analyst / Business Intelligence with a focus on turning messy data into reliable reporting and actionable insights.  
+
+Data Analyst / Business Intelligence Consultant with a focus on turning messy data into reliable reporting and actionable insights.  
 I enjoy building clean data models, automating pipelines, and creating KPI dashboards that support business decisions.
 
 ---
@@ -102,4 +103,4 @@ Datenanalyse · Business Intelligence · Datenvisualisierung · Datenmanagement 
 ---
 
 ## 📫 Contact
-- LinkedIn: ([https://www.linkedin.com/in/ramona-mufic/])
+- [LinkedIn](https://www.linkedin.com/in/ramona-mufic/)

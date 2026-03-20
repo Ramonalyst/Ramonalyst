@@ -9,7 +9,6 @@
 ![SQL](https://img.shields.io/badge/SQL-2F2F2F?style=for-the-badge&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=ffffff)
-![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-ML-00BFA6?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
 
 
 Data Analyst / Business Intelligence Consultant with a focus on turning messy data into reliable reporting and actionable insights.  

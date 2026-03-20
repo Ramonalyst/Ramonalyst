@@ -1,7 +1,13 @@
 # Hi, I'm Ramona(lyst) 👋
 
 <!-- Key skills (one row) -->
-**Core:** Power BI · Microsoft Fabric · Lakehouse/Warehouse · BigQuery · SQL · dbt · Python
+<!-- Core skills (badges) -->
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6F42C1?style=for-the-badge&logo=microsoft&logoColor=ffffff)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-1F7A8C?style=for-the-badge&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-2F2F2F?style=for-the-badge&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=ffffff)
 
 
 Data Analyst / Business Intelligence Consultant with a focus on turning messy data into reliable reporting and actionable insights.  

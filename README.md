@@ -54,9 +54,10 @@ I enjoy building clean data models, automating pipelines, and creating KPI dashb
 - Git & GitHub
 
 **Keywords / Fokus:**  
-Power BI (DAX, Power Query) | Microsoft Fabric | SQL | dbt | Data Modeling (Datenmodellierung) | Data Warehouse | ETL & Data Integration | Python  
-Datenanalyse | Business Intelligence (BI) | Dashboards & Reporting | Data Visualization | Data-Driven Decision Making  
-Stakeholder Management | Anforderungsanalyse | cross-functional collaboration | AI-assisted analytics
+
+Power BI (DAX, Power Query) · Microsoft Fabric · SQL · dbt · Data Modeling (Datenmodellierung) · Data Warehouse · ETL & Data Integration · Python  
+Datenanalyse · Business Intelligence (BI) · Dashboards & Reporting · Data Visualization · Data-Driven Decision Making  
+Stakeholder Management · Anforderungsanalyse · cross-functional collaboration · AI-assisted analytics
 
 ---
 

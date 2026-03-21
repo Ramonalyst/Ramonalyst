@@ -21,7 +21,7 @@ I enjoy building clean data models, automating pipelines, and creating KPI dashb
 **Keywords / Fokus**  
 
 Datenanalyse (Data Analytics) · Business Intelligence (BI) · Datenmodellierung (Data Modeling) · Kennzahlenlogik (Metric Definitions)  
-Dashboards & Reporting (Berichtswesen) · Datenqualität (Data Quality) · ETL/ELT (Data Integration) · AI-assisted analytics   
+Dashboards & Reporting (Berichtswesen) · Datenqualität (Data Quality) · ETL/ELT (Data Integration) · AI-assisted analytics  
 Customer Journey & Funnel Analytics · CRM/SaaS Analytics · Anforderungsanalyse (Requirements) · Stakeholder Management
 
 **Data Analysis**

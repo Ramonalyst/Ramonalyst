@@ -20,9 +20,9 @@ I enjoy building clean data models, automating pipelines, and creating KPI dashb
 
 **Keywords / Fokus**  
 
-Power BI (DAX, Power Query) · Microsoft Fabric · SQL · dbt · Data Modeling (Datenmodellierung) · Data Warehouse · ETL & Data Integration · Python  
-Datenanalyse · Business Intelligence (BI) · Dashboards & Reporting · Data Visualization · Data-Driven Decision Making  
-Stakeholder Management · Anforderungsanalyse · cross-functional collaboration · AI-assisted analytics
+Datenanalyse (Data Analytics) · Business Intelligence (BI) · Datenmodellierung (Data Modeling) · Kennzahlenlogik (Metric Definitions)  
+Dashboards & Reporting (Berichtswesen) · Datenqualität (Data Quality) · ETL/ELT (Data Integration) · AI-assisted analytics   
+Customer Journey & Funnel Analytics · CRM/SaaS Analytics · Anforderungsanalyse (Requirements) · Stakeholder Management
 
 **Data Analysis**
 - Exploratory Data Analysis (EDA)
